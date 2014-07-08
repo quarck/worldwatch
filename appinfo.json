@@ -1,0 +1,17 @@
+{
+  "uuid": "459c3d6c-4ba5-4f82-a76e-01bcc55ba147",
+  "shortName": "worldwatch",
+  "longName": "worldwatch",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
